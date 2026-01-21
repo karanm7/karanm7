@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Automations**
 
-- 👯 I’m looking to collaborate on **OPpen Source Python tools and API's**
+- 👯 I’m looking to collaborate on **Open Source Python tools and API's**
 
 - 💬 Ask me about **Python, FastAPI, REST APIs, Backend Architecture, Datastructures and Algorithms**
 
